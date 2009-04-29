@@ -1,0 +1,3 @@
+<FilesMatch "\.txt">
+Header set Cache-Control "no-cache"
+</FilesMatch>

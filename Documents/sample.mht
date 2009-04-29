@@ -1,0 +1,212 @@
+MIME-Version: 1.0
+Content-Location: file:///C:/2C484DE5/sample.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DFile-List href=3D"sample_files/filelist.xml">
+<title>This is a sample text file</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Brian Latta</o:Author>
+  <o:LastAuthor>Brian Latta</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2008-07-22T04:54:00Z</o:Created>
+  <o:LastSaved>2008-07-22T04:57:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>70</o:Words>
+  <o:Characters>402</o:Characters>
+  <o:Company>PWGSC</o:Company>
+  <o:Lines>3</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>471</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=3DEN-US style=3D'tab-interval:.5in'>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal>This is a sample text file.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>This has line spacing and:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Indented
+text and</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>
+
+<table class=3DMsoTableGrid border=3D1 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;border:none;mso-border-alt:solid windowt=
+ext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-inside=
+h:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=3D369 valign=3Dtop style=3D'width:221.4pt;border:solid windowte=
+xt 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=3DMsoNormal>A table that has</p>
+  </td>
+  <td width=3D369 valign=3Dtop style=3D'width:221.4pt;border:solid windowte=
+xt 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=3DMsoNormal>Two lines</p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td width=3D369 valign=3Dtop style=3D'width:221.4pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=3DMsoNormal>And data, data , data, data, data , data, data, data=
+ ,
+  data, data, data , data, data, data , data, data, data , data, data, data=
+ ,
+  data, data, data , data, data, data , data, data, data , data,</p>
+  </td>
+  <td width=3D369 valign=3Dtop style=3D'width:221.4pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=3DMsoNormal>And <span class=3DSpellE>nsdnfjs</span> <span class=
+=3DSpellE>dv</span>
+  m<span style=3D'mso-spacerun:yes'>&nbsp; </span>j <span class=3DSpellE>j<=
+/span><span
+  style=3D'mso-spacerun:yes'>&nbsp; </span><span class=3DSpellE>jmdmscvmsi<=
+/span> <span
+  class=3DSpellE>kc</span> k <span class=3DSpellE>kd</span> <span class=3DS=
+pellE>fk</span>
+  <span class=3DSpellE>dkd</span> <span class=3DSpellE>kd</span> <span
+  class=3DSpellE>dk</span> <span class=3DSpellE>kmmadv</span> <span class=
+=3DSpellE>kd</span>
+  k <span class=3DSpellE>dk</span> <span class=3DSpellE>msk</span> <span
+  class=3DSpellE>kc</span> <span class=3DSpellE>kc</span><span
+  style=3D'mso-spacerun:yes'>&nbsp; </span><span class=3DSpellE>kc</span> m=
+c <span
+  class=3DSpellE>ksc</span> <span class=3DSpellE>kc</span> k km k <span
+  class=3DSpellE>kmk</span> k <span class=3DSpellE>k</span><span
+  style=3D'mso-spacerun:yes'>&nbsp; </span><span class=3DSpellE>k</span> <s=
+pan
+  class=3DSpellE>k</span> c k <span class=3DSpellE>cmkc</span> k c<span
+  style=3D'mso-spacerun:yes'>&nbsp; </span>ck <span class=3DSpellE>ckc</spa=
+n> ck <span
+  class=3DSpellE>ckxc</span> <span class=3DSpellE>kc</span> <span class=3DS=
+pellE>xm</span>,
+  x k &#8216;k k <span class=3DSpellE>kc</span><span
+  style=3D'mso-spacerun:yes'>&nbsp; </span><span class=3DSpellE>ksc</span> =
+k </p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
