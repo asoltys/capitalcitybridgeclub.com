@@ -16,7 +16,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
 
-<body bgcolor="#FFFFFF" text="#000000" onload="initialize()">
+<body bgcolor="#FFFFFF" text="#000000" onLoad="initialize()">
 <table width="98%" border="1" cellspacing="2" cellpadding="2" bordercolor="#999999">
   <tr align="center" valign="top" bgcolor="#33CC66"> 
     <td colspan="3" height="97"><img src="/Images/CapitalCityBridgeClub3.jpg" width="800" height="90"></td>
@@ -27,7 +27,7 @@
     <td height="500" bgcolor="#33CC66" width="67%" bordercolor="#333333">
 
       <h1>Location</h1>
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=3922+La+Salle+Street,+Victoria,+BC&amp;sll=48.466078,-123.352861&amp;sspn=0.009419,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=3922+La+Salle+St,+Saanich,+Capital+Regional+District,+British+Columbia+V8P+3L7,+Canada&amp;ll=48.46605,-123.352818&amp;spn=0.009419,0.01929&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=3922+La+Salle+Street,+Victoria,+BC&amp;sll=48.466078,-123.352861&amp;sspn=0.009419,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=3922+La+Salle+St,+Saanich,+Capital+Regional+District,+British+Columbia+V8P+3L7,+Canada&amp;ll=48.46605,-123.352818&amp;spn=0.009419,0.01929&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="425" height="550" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=3930+La+Salle+Street,+Victoria,+B.C.&amp;sll=48.465481,-123.350844&amp;sspn=0.009419,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=3930+La+Salle+St,+Saanich,+Capital+Regional+District,+British+Columbia+V8P+3L7,+Canada&amp;ll=48.465538,-123.350909&amp;spn=0.009419,0.01929&amp;z=15&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=3930+La+Salle+Street,+Victoria,+B.C.&amp;sll=48.465481,-123.350844&amp;sspn=0.009419,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=3930+La+Salle+St,+Saanich,+Capital+Regional+District,+British+Columbia+V8P+3L7,+Canada&amp;ll=48.465538,-123.350909&amp;spn=0.009419,0.01929&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 <p>
 Capital City Bridge Club located in the Lakehill Lawn Bowling Clubhouse Drive. <br />

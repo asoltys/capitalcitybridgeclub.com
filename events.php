@@ -37,10 +37,10 @@
 				 <strong>Wednesday, June 2nd, 2010</strong>
 				 <p>Capital City Bridge Club is moving to a new spacious building with good lighting, ample free parking, kitchen with refreshments
 				 <br />
-				 - at -
-				 <br />
-				 <p>the <a href="map.php">Lakehill Lawn Bowling club</a></p>
-				 <p>Check the <a href="weekly.php">Weekly Schedule Page</a> as we'll be changing the schedule of games.</p>
+				 - at -<br />
+				 the <a href="contact.php">Lakehill Lawn Bowling club</a>
+				 </p>
+				 <p>Check our new <a href="weekly.php">Weekly Schedule</a></p>
 				<h2>SPECIAL INTRODUCTORY OFFER</h2>
 				<p>
 				During the first week of operation, <strong style="color: #FFFF33">TWO PLAY FOR THE PRICE OF ONE!</strong>							 </p>
