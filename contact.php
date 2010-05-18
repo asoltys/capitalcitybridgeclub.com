@@ -26,16 +26,37 @@
       <?php require('navigation.php') ?>      </td>
     <td height="500" bgcolor="#33CC66" width="67%" bordercolor="#333333">
 
-      <h1>Location</h1>
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=3922+La+Salle+Street,+Victoria,+BC&amp;sll=48.466078,-123.352861&amp;sspn=0.009419,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=3922+La+Salle+St,+Saanich,+Capital+Regional+District,+British+Columbia+V8P+3L7,+Canada&amp;ll=48.46605,-123.352818&amp;spn=0.009419,0.01929&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=3922+La+Salle+Street,+Victoria,+BC&amp;sll=48.466078,-123.352861&amp;sspn=0.009419,0.01929&amp;ie=UTF8&amp;hq=&amp;hnear=3922+La+Salle+St,+Saanich,+Capital+Regional+District,+British+Columbia+V8P+3L7,+Canada&amp;ll=48.46605,-123.352818&amp;spn=0.009419,0.01929&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+      <p>For more information please contact:</p>
+      <table width="90%" border="0" cellspacing="0" cellpadding="0">
 
-<p>
-Capital City Bridge Club located in the Lakehill Lawn Bowling Clubhouse Drive. <br />
-Cars may be parked on LaSalle St. or in the large parking lot past the clubhouse. 
-</p>
-<p>
-Bus access is from Blenkinsop Road and Union Road Bus stop on Route 25.
-</p>
+        <tr> 
+
+          <td> 
+
+            <p>Rita Beny<br>
+
+              (250)661-3666</p>          </td>
+
+          <td> 
+
+            <div align="right">Ewa Zwicky<br>
+
+              (250)388-7000</div>          </td>
+        </tr>
+      </table>
+      <p>or E-Mail: <font color="#6666CC"><small><font face="Arial, Helvetica, sans-serif"
+
+ size="2"><big><font size="3"><a href="mailto:info@capitalcitybridgeclub.com">info@capitalcitybridgeclub.com</a></font><font color="#0000FF"><br>
+
+        </font></big></font><big><br>
+
+        <font color="#000000">or see scheduled games at the</font><font color="#333333"> 
+
+        </font><font color="#6666CC"><font color="#000000">Lakehill Lawn Bowling Club<br>
+
+        3930 LaSalle St., Victoria, BC, V8P 3L7</font></font> </big><font color="#000000"><big> 
+
+        &nbsp;</big></font></small></font></p>
 
 			</td>
   </tr>
