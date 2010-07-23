@@ -31,16 +31,38 @@
     <td height="500" bgcolor="#33CC66" width="67%" bordercolor="#333333" style="padding-left: 30px;">
 
       <h1>Weekly Schedule</h1>
-      <strong>Duplicate Bridge Games - Entry fee $6.50 per person</strong><br />
-			Wednesday  - 6:45 PM  Open Stratified Game (Lesson at 6:30 pm)<br />
-			Thursday  - 12:45 PM Open Stratified Game<br />
-			Friday -  9:15 AM Open Stratified Game<br />			<p>
-			  <strong>Rubber Bridge Game - Entry fee $4.50 per person</strong><br />
-			  Monday - 9:30 AM 
-		  </p></td>
-    <td rowspan="2" width="15%" bgcolor="#33CC66" bordercolor="#FF0000"> 
-      <p><img src="/Images/bridgehand.gif" width="125" height="100"></p>
-      <p>&nbsp;</p></td>
+
+			<table>
+				<tr>
+					<th colspan="3" style="text-align: center">
+					Duplicate Bridge Games - Entry fee $6.50 per person
+					</th>
+				</tr>
+				<tr>
+					<td style="width:100px;">Wednesday</td>
+					<td style="width:100px;">6:45 PM</td>
+					<td style="width:300px;">Open Stratified Game (Lesson at 6:30 pm)</td>
+				</tr>
+				<tr>
+					<td>Thursday</td>
+					<td>12:45 PM</td>
+					<td>Open Stratified Game</td>
+				</tr>
+				<tr>
+					<td>Friday</td>
+					<td>9:15 AM</td>
+					<td>Open Stratified Game</td>
+				</tr>
+				<tr>
+					<th colspan="3" style="text-align: center">
+					Rubber Bridge Game - Entry fee $4.50 per person
+					</th>
+				</tr>
+				<tr>
+					<td>Monday</td>
+					<td colspan="2">9:30 AM</td>
+				</tr>
+			</table>
   </tr>
   <tr>
     <td align="center" valign="bottom" height="50" bgcolor="#33CC66" bordercolor="#FF0000" width="67%"> 

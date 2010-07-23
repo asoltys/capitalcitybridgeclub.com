@@ -41,7 +41,7 @@
 				 the <a href="contact.php">Lakehill Lawn Bowling club</a>
 				 </p>
 				 <p>Check our new <a href="weekly.php">Weekly Schedule</a></p>
-				<h2>SPECIAL INTRODUCTORY OFFER</h2>
+				<h2 style="color: #990000">SPECIAL INTRODUCTORY OFFER</h2>
 				<p>
 				During the first week of operation, <strong style="color: #FFFF33">TWO PLAY FOR THE PRICE OF ONE!</strong>							 </p>
 				<hr />

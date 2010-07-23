@@ -29,9 +29,8 @@
     <td height="500" bgcolor="#33CC66" width="67%" bordercolor="#333333"> 
 
       <p>&nbsp;</p>
-      <p><font size="7" color="#990000">Never Stop Learning!</font></p>
+      <p><font size="7" color="#990000">Exercise Your Brain!</font></p>
       <p><img src="/Images/bridgehand.gif" width="346" height="256"></p>
-      <p>Exercise your brain<br>
       <p>Don't miss our exciting  <a href="events.php">SPECIAL EVENTS</a>!</p></td>
     <td rowspan="2" width="15%" bgcolor="#33CC66" bordercolor="#FF0000"> 
       <p><img src="/Images/bridgehand.gif" width="125" height="100"></p>      </td>
