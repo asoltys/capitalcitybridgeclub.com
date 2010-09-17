@@ -34,23 +34,26 @@
       <h1>SPECIAL EVENTS</h1>
 				<hr />
 					
-				 <strong>Wednesday, June 2nd, 2010</strong>
-				 <p>Capital City Bridge Club is moving to a new spacious building with good lighting, ample free parking, kitchen with refreshments
-				 <br />
-				 - at -<br />
-				 the <a href="contact.php">Lakehill Lawn Bowling club</a>
-				 </p>
-				 <p>Check our new <a href="weekly.php">Weekly Schedule</a></p>
-				<h2 style="color: #990000">SPECIAL INTRODUCTORY OFFER</h2>
-				<p>
-				During the first week of operation, <strong style="color: #FFFF33">TWO PLAY FOR THE PRICE OF ONE!</strong>							 </p>
-				<hr />
-									
-											
-				<strong>Wednesday, October 27th, 2010</strong>
-				<p>The Errin Berry Rookie Master Game</p>
-				<p>Awards 68% sectionally rated black points</p>
-			<p>Rookies have less than 50 masterpoints, masters have more experience with unlimited masterpoints</p>
+				<p>We invite you to come and play at a fun event:</p>
+
+							
+		    <p>
+          the <span style="font-size: 18px">ERRIN BERRY GAME</span><br />
+				  Wednesday, October 27th, 2010<br />
+          at 6.45 pm
+        </p>
+
+<p>
+<strong>At least one member of the partnership must have less than 50 masterpoints.</strong><br />
+(Let us know in advance if you don't have a partner, and we will find one for you)
+</p>
+
+<p>
+This is a special game, with  the same hands being played across the country.<br />
+Top percentage score in each Zone will receive plaques and all club winners will receive certificates.<br />
+Masterpoint awards are 68% sectionally rated black points.<br />
+Entry fee $8 per person
+</p>
 
 			
 			</td>
