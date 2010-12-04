@@ -189,7 +189,9 @@
  face="Arial, Helvetica, sans-serif" size="2">29</font>
             </td>
             <td height="70" nowrap="nowrap" width="80"><font face="Arial, Helvetica, sans-serif" size="2">30</font></td>
-            <td height="70" nowrap="nowrap" width="70"><font face="Arial, Helvetica, sans-serif" size="2">31</font></td>
+            <td height="70" nowrap="nowrap" width="70"><font face="Arial, Helvetica, sans-serif" size="2">31</font>
+            <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/Results/2008/110831.txt">Results</a></font></p>
+            </td>
             <td height="70" nowrap="nowrap" width="78"> <br>
             </td>
             <td height="70" nowrap="nowrap" width="70"> <br>
