@@ -1,160 +1,32 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-
 <html>
-
 <head>
 
-<!-- #BeginTemplate "/Templates/BridgeClub3.dwt" -->
-
   <meta http-equiv="Content-Type"
-
  content="text/html; charset=iso-8859-1">
-
   <meta name="robots" content="index,follow">
-
   <meta name="author" content="Brian Latta">
-
 <!--//if (empty ($metaDescription))-->
-
   <meta name="description" content="Capital City Bridge Club">
-
   <meta name="keywords" content="victoria, bridge, club">
-
   <title>Capital City Bridge Club</title>
 
-<!-- #BeginEditable "doctitle" --><!-- #EndEditable -->
-
   <meta http-equiv="Content-Type"
-
  content="text/html; charset=iso-8859-1">
-
 </head>
-
 <body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
-
 <table border="1" bordercolor="#999999" cellpadding="2" cellspacing="2"
-
  width="98%">
-
   <tbody>
-
     <tr align="center" bgcolor="#33cc66" valign="top">
-
       <td colspan="3" height="97"><img
-
  src="/Images/CapitalCityBridgeClub3.jpg" height="90" width="800"></td>
-
     </tr>
-
     <tr align="center" valign="top">
-
       <td rowspan="2" bordercolor="#FF0000" bgcolor="#33cc66"
-
  width="20%">
-
-      <table name="Navigation" align="center" border="0" cellpadding="1"
-
- cellspacing="1" width="100%">
-
-        <tbody>
-
-          <tr bgcolor="#ffffcc">
-
-            <td bgcolor="#33cc66" valign="top" width="14"><b><font
-
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
-
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-
-            <td bgcolor="#33cc66" width="125"><b><a href="/index.html"><font
-
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Home Page</font></a></b></td>
-
-          </tr>
-
-          <tr bgcolor="#ffffcc">
-
-            <td bgcolor="#33cc66" valign="top"><b><font color="#333333"
-
- size="2"><img alt="" src="/Images/arrow.gif" align="left" border="0"
-
- height="12" hspace="3" width="8"></font></b></td>
-
-            <td bgcolor="#33cc66"><b><a href="/weekly.html"><font
-
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Weekly
-
-Schedule </font></a></b></td>
-
-          </tr>
-
-          <tr bgcolor="#ffffcc">
-
-            <td bgcolor="#33cc66" height="20" valign="top"><b><font
-
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
-
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-
-            <td bgcolor="#33cc66" height="20"><b><a href="/events.html"><font
-
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Special
-
-Events </font></a></b></td>
-
-          </tr>
-
-          <tr bgcolor="#ffffcc">
-
-            <td bgcolor="#33cc66" height="22" valign="top"><b><font
-
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
-
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-
-            <td bgcolor="#33cc66"><b><a href="/results.html"><font
-
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Calender/Game
-
-Results</font></a></b></td>
-
-          </tr>
-
-          <tr bgcolor="#ffffcc">
-
-            <td bgcolor="#33cc66" height="15" valign="top"><b><font
-
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
-
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-
-            <td bgcolor="#33cc66"><b><a href="/links.html"><font
-
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Links</font></a></b></td>
-
-          </tr>
-
-          <tr bgcolor="#ffffcc">
-
-            <td bgcolor="#33cc66" height="15" valign="top"><b><font
-
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
-
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-
-            <td bgcolor="#33cc66"><b><a href="/contact.html"><font
-
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Contact</font></a></b></td>
-
-          </tr>
-
-        </tbody>
-
-      </table>
-
-<!-- #BeginEditable "LeftText" --><!-- #EndEditable --></td>
-
-      <td bordercolor="#333333" bgcolor="#33cc66" height="415"
+       <?php include('navigation.php') ?>
+      </td>      <td bordercolor="#333333" bgcolor="#33cc66" height="415"
 
  width="67%"><!-- #BeginEditable "CenterText" -->
 
@@ -167,7 +39,7 @@ Results</font></a></b></td>
             <td colspan="7" height="50">
 
             <div align="center">
-              <a href="mar2011.html">Previous</a> - April 2011 - <a href="may2011.html">Next</a></div>
+              <a href="mar2011.php">Previous</a> - April 2011 - <a href="may2011.php">Next</a></div>
 
             </td>
 
@@ -455,86 +327,19 @@ Results</font></a></b></td>
 
           </tr>
         </tbody>
-
       </table>
-
-<!-- #EndEditable --></td>
-
-      <td rowspan="2" bordercolor="#FF0000" bgcolor="#33cc66"
-
- width="15%">
-
-      <p><img src="/Images/bridgehand.gif" height="100" width="125"></p>
-
-<!-- #BeginEditable "RightText" -->
-
-      <p><font color="#330033">Results from this month's games. </font></p>
-
-							<!-- #EndEditable --></td>
-
-    </tr>
-
-    <tr>
-
-      <td bordercolor="#FF0000" align="center" bgcolor="#33cc66"
-
- height="50" valign="bottom" width="67%">
-
-      <div align="center"> </div>
-
-      <p align="center"><font color="#6666cc"
-
- face="Arial, Helvetica, sans-serif" size="2"><img
-
- src="/Images/CapitalCityBridgeClub2.jpg" height="51" width="300"><br>
-
-      </font><font color="#6666cc"><font color="#000000"
-
- face="Arial, Helvetica, sans-serif">Monterey Recreation Centre<font
-
- size="1"><br>
-
-      </font>1442 Monterey Avenue, Victoria, B.C.,Canada</font><font
-
- color="#000000"><br>
-
-      <small><font face="Arial, Helvetica, sans-serif">Telephone: Ewa
-
-Zwicky (250) 388-7000</font><small><font
-
- face="Arial, Helvetica, sans-serif"><br>
-
-      </font></small><font face="Arial, Helvetica, sans-serif">Rita
-
-Beny (250) 661-3666</font><small><font
-
- face="Arial, Helvetica, sans-serif"><br>
-
-      </font></small></small></font></font><font color="#000000"> <small><font
-
- face="Arial, Helvetica, sans-serif" size="2"> <font size="3">email</font><big>:&nbsp;</big></font></small></font><font
-
- color="#6666cc"><small><font face="Arial, Helvetica, sans-serif"
-
- size="2"><big><font size="3"> <a
-
- href="mailto:info@capitalcitybridgeclub.com">info@capitalcitybridgeclub.com</a></font><font
-
- color="#0000ff">&nbsp;</font></big></font></small> <br>
-
-      </font></p>
-
       </td>
-
+      <td rowspan="2" bordercolor="#FF0000" bgcolor="#33cc66"
+ width="15%">
+      <p><img src="/Images/bridgehand.gif" height="100" width="125"></p>      <p><font color="#330033">Results from this month's games. </font></p></td>
     </tr>
-
+    <tr>
+      <td align="center" valign="bottom" height="50" bgcolor="#33CC66" bordercolor="#FF0000" width="67%"> 
+        <?php require('footer.php') ?>
+      </td>
+    </tr>
   </tbody>
-
 </table>
 
-<!-- #EndTemplate -->
-
 </body>
-
 </html>
-

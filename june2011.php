@@ -24,53 +24,14 @@
   </tr>
   <tr align="center" valign="top"> 
     <td rowspan="2" width="20%" bgcolor="#33CC66" bordercolor="#FF0000"> 
-      <table cellspacing="1" cellpadding="1" border="0"
- width="100%" name="Navigation" align="center">
-        <tbody> 
-        <tr bgcolor="#FFFFCC"> 
-          <td width="14" valign="top" bgcolor="#33CC66"><b><font size="2" color="#333333"><img height="12" alt=""
- hspace="3" src="/Images/arrow.gif" width="8" align="left" border="0"></font></b></td>
-          <td width="125" bgcolor="#33CC66"><b><a href="/index.html"><font face="Arial, Helvetica, sans-serif" size="2" color="#CCFFCC">Home 
-            Page</font></a></b></td>
-        </tr>
-        <tr bgcolor="#FFFFCC"> 
-          <td valign="top" bgcolor="#33CC66"><b><font size="2" color="#333333"><img height="12" alt=""
- hspace="3" src="/Images/arrow.gif" width="8" align="left" border="0"></font></b></td>
-          <td bgcolor="#33CC66"><b><a href="/weekly.html"><font face="Arial, Helvetica, sans-serif" size="2" color="#CCFFCC">Weekly 
-            Schedule </font></a></b></td>
-        </tr>
-        <tr bgcolor="#FFFFCC"> 
-          <td valign="top" height="20" bgcolor="#33CC66"><b><font size="2" color="#333333"><img height="12"
- alt="" hspace="3" src="/Images/arrow.gif" width="8" align="left"
- border="0"></font></b></td>
-          <td height="20" bgcolor="#33CC66"><b><a href="/events.html"><font face="Arial, Helvetica, sans-serif" size="2" color="#CCFFCC">Special 
-            Events </font></a></b></td>
-        </tr>
-        <tr bgcolor="#FFFFCC"> 
-          <td valign="top" height="22" bgcolor="#33CC66"><b><font size="2" color="#333333"><img height="12" alt=""
- hspace="3" src="/Images/arrow.gif" width="8" align="left" border="0"></font></b></td>
-          <td bgcolor="#33CC66"><b><a href="/results.html"><font face="Arial, Helvetica, sans-serif" size="2" color="#CCFFCC">Calender/Game 
-            Results</font></a></b></td>
-        </tr>
-        <tr bgcolor="#FFFFCC"> 
-          <td valign="top" height="15" bgcolor="#33CC66"><b><font size="2" color="#333333"><img height="12" alt=""
- hspace="3" src="/Images/arrow.gif" width="8" align="left" border="0"></font></b></td>
-          <td bgcolor="#33CC66"><b><a href="/links.html"><font face="Arial, Helvetica, sans-serif" size="2" color="#CCFFCC">Links</font></a></b></td>
-        </tr>
-        <tr bgcolor="#FFFFCC"> 
-          <td valign="top" height="15" bgcolor="#33CC66"><b><font size="2" color="#333333"><img height="12" alt=""
- hspace="3" src="/Images/arrow.gif" width="8" align="left" border="0"></font></b></td>
-          <td bgcolor="#33CC66"><b><a href="/contact.html"><font face="Arial, Helvetica, sans-serif" size="2" color="#CCFFCC">Contact</font></a></b></td>
-        </tr>
-        </tbody> 
-      </table>
-      <!-- #BeginEditable "LeftText" --><!-- #EndEditable --></td>
+      <?php include('navigation.php') ?>
+    </td>
     <td height="415" bgcolor="#33CC66" width="67%" bordercolor="#333333"><!-- #BeginEditable "CenterText" -->
       <table width="98%" border="1" cellspacing="0" cellpadding="0">
         <tr align="center"> 
           <td colspan="7" height="50"> 
-            <div align="center"><a href="may2011.html">Previous</a> - June 2011 
-              - <a href="july2011.html">Next </a></div>
+            <div align="center"><a href="may2011.php">Previous</a> - June 2011 
+              - <a href="july2011.php">Next </a></div>
           </td>
         </tr>
         <tr align="center" valign="top"> 
@@ -191,6 +152,7 @@
           </td>
           <td width="70" height="73" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">24</font> 
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="/Results/2008/110624.txt">Results</a></font></p>
             </div>
           </td>
           <td width="78" height="73" nowrap> 
@@ -230,21 +192,8 @@
   </tr>
   <tr>
     <td align="center" valign="bottom" height="50" bgcolor="#33CC66" bordercolor="#FF0000" width="67%"> 
-      <div align="center"> </div>
-      <p align="center"><font face="Arial, Helvetica, sans-serif" size="2" color="#6666CC"><img src="/Images/CapitalCityBridgeClub2.jpg" width="300" height="51"><br>
-        </font><font color="#6666CC"><font face="Arial, Helvetica, sans-serif" color="#000000">Monterey 
-        Recreation Centre<font size="1"><br>
-        </font>1442 Monterey Avenue, Victoria, B.C.,Canada</font><font color="#000000"><br>
-        <small><font face="Arial, Helvetica, sans-serif">Telephone: Ewa Zwicky 
-        (250) 388-7000</font><small><font face="Arial, Helvetica, sans-serif"><br>
-        </font></small><font face="Arial, Helvetica, sans-serif">Rita Beny (250) 
-        661-3666</font><small><font face="Arial, Helvetica, sans-serif"><br>
-        </font></small></small></font></font><font color="#000000"> <small><font face="Arial, Helvetica, sans-serif"
- size="2"> <font size="3">email</font><big>:&nbsp;</big></font></small></font><font color="#6666CC"><small><font face="Arial, Helvetica, sans-serif"
- size="2"><big><font size="3"> <a href="mailto:info@capitalcitybridgeclub.com">info@capitalcitybridgeclub.com</a></font><font color="#0000FF">&nbsp;</font></big></font></small> 
-        <br>
-        </font></p>
-      </td>
+      <?php include('footer.php') ?>
+    </td>
   </tr>
 </table>
 </body>

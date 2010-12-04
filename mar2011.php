@@ -25,63 +25,15 @@
     <tr align="center" valign="top">
       <td rowspan="2" bordercolor="#FF0000" bgcolor="#33cc66"
  width="20%">
-      <table name="Navigation" align="center" border="0" cellpadding="1"
- cellspacing="1" width="100%">
-        <tbody>
-          <tr bgcolor="#ffffcc">
-            <td bgcolor="#33cc66" valign="top" width="14"><b><font
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-            <td bgcolor="#33cc66" width="125"><b><a href="/index.html"><font
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Home Page</font></a></b></td>
-          </tr>
-          <tr bgcolor="#ffffcc">
-            <td bgcolor="#33cc66" valign="top"><b><font color="#333333"
- size="2"><img alt="" src="/Images/arrow.gif" align="left" border="0"
- height="12" hspace="3" width="8"></font></b></td>
-            <td bgcolor="#33cc66"><b><a href="/weekly.html"><font
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Weekly
-Schedule </font></a></b></td>
-          </tr>
-          <tr bgcolor="#ffffcc">
-            <td bgcolor="#33cc66" height="20" valign="top"><b><font
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-            <td bgcolor="#33cc66" height="20"><b><a href="/events.html"><font
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Special
-Events </font></a></b></td>
-          </tr>
-          <tr bgcolor="#ffffcc">
-            <td bgcolor="#33cc66" height="22" valign="top"><b><font
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-            <td bgcolor="#33cc66"><b><a href="/results.html"><font
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Calender/Game
-Results</font></a></b></td>
-          </tr>
-          <tr bgcolor="#ffffcc">
-            <td bgcolor="#33cc66" height="15" valign="top"><b><font
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-            <td bgcolor="#33cc66"><b><a href="/links.html"><font
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Links</font></a></b></td>
-          </tr>
-          <tr bgcolor="#ffffcc">
-            <td bgcolor="#33cc66" height="15" valign="top"><b><font
- color="#333333" size="2"><img alt="" src="/Images/arrow.gif"
- align="left" border="0" height="12" hspace="3" width="8"></font></b></td>
-            <td bgcolor="#33cc66"><b><a href="/contact.html"><font
- color="#ccffcc" face="Arial, Helvetica, sans-serif" size="2">Contact</font></a></b></td>
-          </tr>
-        </tbody>
-      </table></td>
+       <?php include('navigation.php') ?>
+      </td>
       <td bordercolor="#333333" bgcolor="#33cc66" height="415"
  width="67%">        <table border="1" cellpadding="0" cellspacing="0" width="98%">
           <tbody>
             <tr align="center">
               <td colspan="7" height="50">
-                <div align="center"><a href="feb2011.html">Previous</a> - March 2011 - <a
- href="apr2011.html">Next </a></div>              </td>
+                <div align="center"><a href="feb2011.php">Previous</a> - March 2011 - <a
+ href="apr2011.php">Next </a></div>              </td>
             </tr>
             <tr align="center" valign="top"> 
               <td width="95" height="30" nowrap><b><font size="2">Sun</font></b></td>
@@ -203,15 +155,8 @@ Results</font></a></b></td>
     <tr>
       <td bordercolor="#FF0000" align="center" bgcolor="#33cc66"
  height="50" valign="bottom" width="67%">
-      <div align="center"> </div>
-      <p align="center"><font face="Arial, Helvetica, sans-serif" size="2" color="#6666CC"><img src="/Images/CapitalCityBridgeClub2.jpg" width="300" height="51"><br>
-        </font><font color="#6666CC"><font face="Arial, Helvetica, sans-serif">Lakehill Lawn Bowling Club<font size="1"><br>
-        </font>3930 LaSalle St., Victoria, BC V8P 3L7</font><br>
-        </font></small></font></small></font><font color="#6666CC"> <small><font face="Arial, Helvetica, sans-serif"
- size="2"> <font size="3">email</font><big>:&nbsp;<font size="3"> <a
- href="mailto:CapitalCityBridgeClub@shaw.ca"><font color="#0000FF">CapitalCityBridgeClub@shaw.ca</font></a></font><font color="#0000FF">&nbsp;</font></big></font></small> 
-        <br>
-        </font></p>      </td>
+        <?php require('footer.php') ?>
+      </td>
     </tr>
   </tbody>
 </table>
