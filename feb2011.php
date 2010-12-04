@@ -80,8 +80,8 @@ Results</font></a></b></td>
           <tbody>
             <tr align="center">
               <td colspan="7" height="50">
-                <div align="center"><a href="jan2011.html">Previous</a> - February 2011 - <a
- href="mar2011.html">Next </a></div>              </td>
+                <div align="center"><a href="jan2011.php">Previous</a> - February 2011 - <a
+ href="mar2011.php">Next </a></div>              </td>
             </tr>
             <tr align="center" valign="top"> 
               <td width="95" height="30" nowrap><b><font size="2">Sun</font></b></td>
