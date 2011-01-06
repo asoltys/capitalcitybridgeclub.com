@@ -33,18 +33,18 @@
       <h1>2011 Results</h1>
 
 <ul style="list-style: none">
-  <li><a href="jan2011.html">January</a></li>
-  <li><a href="feb2011.html">February</a></li>
-  <li><a href="mar2011.html">March</a></li>
-  <li><a href="apr2011.html">April</a></li>
-  <li><a href="may2011.html">May</a></li>
-  <li><a href="june2011.html">June</a></li>
-  <li><a href="july2011.html">July</a></li>
-  <li><a href="aug2011.html">August</a></li>
-  <li><a href="sep2011.html">September</a></li>
-  <li><a href="oct2011.html">October</a></li>
-  <li><a href="nov2011.html">November</a></li>
-  <li><a href="dec2011.html">December</a></li>
+  <li><a href="jan2011.php">January</a></li>
+  <li><a href="feb2011.php">February</a></li>
+  <li><a href="mar2011.php">March</a></li>
+  <li><a href="apr2011.php">April</a></li>
+  <li><a href="may2011.php">May</a></li>
+  <li><a href="june2011.php">June</a></li>
+  <li><a href="july2011.php">July</a></li>
+  <li><a href="aug2011.php">August</a></li>
+  <li><a href="sep2011.php">September</a></li>
+  <li><a href="oct2011.php">October</a></li>
+  <li><a href="nov2011.php">November</a></li>
+  <li><a href="dec2011.php">December</a></li>
 </ul>
 </td>
     <td rowspan="2" width="15%" bgcolor="#33CC66" bordercolor="#FF0000"> 
