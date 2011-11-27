@@ -24,27 +24,23 @@
     </td>
     <td height="500" bgcolor="#33CC66" width="67%" bordercolor="#333333" style="font-family: arial; font-size: 18px;">
       <h1>SPECIAL EVENTS</h1>
-				<hr />
-					
-       <p>
-       There will be NO game Wednesday, 13th July, as the premises are being used for a lawn bowling event.
-       The Wednesday game will resume as usual on 20th July.
-       </p> 
+      <hr />
+        
+      <p>
+      <strong>SPECIAL CHRISTMAS GAMES AND CLUB CHAMPIONSHIPS</strong><br />
+      FRIDAY,            16th DECEMBER<br />
+      WEDNESDAY,  21st DECEMBER<br />
+      THURSDAY,      22nd DECEMBER<br />
+      We will have free Christmas refreshments, prizes and Club Championship 
+      rated masterpoint awards. 
+      </p>
 
-       <p>CLUB CHAMPIONSHIPS</p>
-
-       <p>
-       The following games will be club championships. 
-       Same entry fee as for normal games. 
-       Higher masterpoint awards.
-       </p>
-                                                       
-       <p>
-       Wednesday, 10th August<br />
-       Thursday, 11th August<br />
-       Friday, 12th August
-       </p>
-			</td>
+      <p>
+      <strong>STAC GAMES</strong> (Sectional Tournament at Clubs)<br />
+        WEDNESDAY,    18th JANUARY<br />
+        THURSDAY,           23rd FEBRUARY
+      </p>
+    </td>
   </tr>
   <tr>
     <td align="center" valign="bottom" height="50" bgcolor="#33CC66" bordercolor="#FF0000" width="67%"> 
