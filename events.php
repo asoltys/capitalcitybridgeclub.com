@@ -26,40 +26,24 @@
       <h1>SPECIAL EVENTS</h1>
 				<hr />
 					
-        <p>
-        We held a very successful, fun, Bridge Bowl last year, and have been repeatedly asked to repeat this event, so...
-        </p>
+       <p>
+       There will be NO game Wednesday, 13th July, as the premises are being used for a lawn bowling event.
+       The Wednesday game will resume as usual on 20th July.
+       </p> 
 
-        <p>
-        YOU ARE INVITED TO OUR SECOND ANNUAL "BRIDGE BOWL"<br />
-        an afternoon of fun Bridge and Bowls where teams of four compete in a combined event.
-        </p>
+       <p>CLUB CHAMPIONSHIPS</p>
 
-        <p>
-        First your team of four will play a Round-Robin of Lawn Bowls comprising four two-end games.<br />
-        Next, refreshment break (price of refreshments included in entry fee)<br />
-        Finally, 16 hands of Bridge in a team format.<br />
-        The placings for the Bowls Tournament and Bridge Tournament will be combined to produce an overall winning team.
-        </p>
-
-        <p>
-        A cup will be awarded to the winners<br />
-        Money prizes to two top teams<br />
-        Lots of door prizes<br />
-        Lots of fun
-        </p>
-
-        <p>
-        Entry fee $80 per team of 4
-        </p>
-
-        <p>
-        Players from both the Lawn Bowling and Bridge Club will be on hand to explain rules. Equipment will be supplied, just wear flat rubber soled shoes.
-        </p>
-
-        <p>
-        For more information, or for help in putting together a team, please call Ewa 250-388-7000 or Rita 250-661-3666, or <a href="mailto:info@capitalcitybridgeclub.com">e-mail us</a>.
-        </p> 
+       <p>
+       The following games will be club championships. 
+       Same entry fee as for normal games. 
+       Higher masterpoint awards.
+       </p>
+                                                       
+       <p>
+       Wednesday, 10th August<br />
+       Thursday, 11th August<br />
+       Friday, 12th August
+       </p>
 			</td>
   </tr>
   <tr>
