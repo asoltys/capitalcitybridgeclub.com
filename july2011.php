@@ -195,7 +195,6 @@
 
             <div align="right">
 													<font face="Arial, Helvetica, sans-serif" size="2">13</font></div>
-              <p><a href="/Results/2008/110713.txt">Results</a></p>
 
             </td>
 
