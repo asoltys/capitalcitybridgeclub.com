@@ -26,20 +26,36 @@
       <h1>SPECIAL EVENTS</h1>
       <hr />
         
-      <p>
-      <strong>SPECIAL CHRISTMAS GAMES AND CLUB CHAMPIONSHIPS</strong><br />
-      FRIDAY,            16th DECEMBER<br />
-      WEDNESDAY,  21st DECEMBER<br />
-      THURSDAY,      22nd DECEMBER<br />
-      We will have free Christmas refreshments, prizes and Club Championship 
-      rated masterpoint awards. 
-      </p>
+      <div style="text-align: center">
+        <h2>STAC GAMES</h2> 
 
-      <p>
-      <strong>STAC GAMES</strong> (Sectional Tournament at Clubs)<br />
-        WEDNESDAY,    18th JANUARY<br />
-        THURSDAY,           23rd FEBRUARY
-      </p>
+        <p>
+          (<strong>S</strong>ectional <strong>T</strong>ournament held <strong>a</strong>t <strong>C</strong>lubs)
+        </p>
+
+        <table align="center" style="width: 400px">
+          <tr>
+            <td>Wednesday 22nd February</td>
+            <td>6:30 pm</td>
+          </tr>
+            <td>Thursday, 23rd February</td>
+            <td>12:30 pm*</td>
+          </tr>
+            <td>Friday, 24th February</td>
+            <td>9:00 am</td>
+          </tr>
+        </table>
+
+        <p>
+          Sectionally rated silver masterpoints will be awarded at these games<br />
+          Entry fees will be $9
+        </p>
+
+        <p>
+          * Since our Thursday games are usually very big, to be assured of a table,<br />
+          please come in good time as we are not able to accommodate more than 18 tables.
+        </p>
+      </div>
     </td>
   </tr>
   <tr>
