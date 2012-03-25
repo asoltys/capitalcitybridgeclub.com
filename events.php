@@ -27,33 +27,28 @@
       <hr />
         
       <div style="text-align: center">
-        <h2>STAC GAMES</h2> 
+        <h2>CHARITY CLUB CHAMPIONSHIPS</h2>
 
         <p>
-          (<strong>S</strong>ectional <strong>T</strong>ournament held <strong>a</strong>t <strong>C</strong>lubs)
-        </p>
-
-        <table align="center" style="width: 400px">
-          <tr>
-            <td>Wednesday 22nd February</td>
-            <td>6:30 pm</td>
-          </tr>
-            <td>Thursday, 23rd February</td>
-            <td>12:30 pm*</td>
-          </tr>
-            <td>Friday, 24th February</td>
-            <td>9:00 am</td>
-          </tr>
-        </table>
-
-        <p>
-          Sectionally rated silver masterpoints will be awarded at these games<br />
-          Entry fees will be $9
+          OUR GAMES ON:
+          <ul>
+          <li>
+            WEDNESDAY, 25TH APRIL
+          </li>
+          <li>
+            THURSDAY, 26TH APRIL
+          </li>
+          <li>
+            FRIDAY, 27TH APRIL
+          </li>
         </p>
 
         <p>
-          * Since our Thursday games are usually very big, to be assured of a table,<br />
-          please come in good time as we are not able to accommodate more than 18 tables.
+          WILL BE SPECIAL GAMES WITH HIGHER MASTERPOINT AWARDS.<br />
+          ENTRY FEES WILL BE $8 OF WHICH $1 WILL GO TO CANASSIST,<br /> 
+          A LOCAL CHARITY WHICH HELPS CHILDREN WITH DISABLING HANDICAPS<br />
+          BY TEACHING THEM COMMUNICATE AND FUNCTION THROUGH VARIOUS COMPUTER<br />
+          PROGRAMMES DEVELOPED AT UVIC.
         </p>
       </div>
     </td>
