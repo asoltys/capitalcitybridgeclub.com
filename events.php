@@ -48,14 +48,11 @@ Sectionally rated silver masterpoint awards, $1 extra
   December 21st<br />
 </p>
 
-<hr />
-
 <p>
 The club will be closed 24th and 26th December for the Christmas holidays. 
 We wish you all a very happy Christmas!
 </p>
 
-<hr />
       </div>
     </td>
   </tr>
