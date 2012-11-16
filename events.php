@@ -28,13 +28,12 @@
         
       <div style="text-align: center">
 
-<h2>
-Oct. 24th only.  Erin Berry Canada Wide Rookie-Master Game:  68% sectionally rated black points.  Hand records and analyses.</h2>
+<h2>STAC Games will be held:</h2>
 
 <p>
-          Pairs must consist of one player with 0 - 50 masterpoints and one with 50 - unlimited masterpoints.    
-	  Sign-up sheets will be available at all our regular games, and we will be glad to partner you up with someone.  
-	  Charge:  extra $1:50/person
+Wednesday, 5th Dec. at 6:30PM<br />
+Thursday, 6th Dec. at 12:30PM<br />
+Friday, 7th Dec. at 9AM
 </p>
 
 <h2>December 19th, 20th & 21st we will be holding our special Christmas games with goodies, prizes and Club Championship masterpoint awards.</h2>
