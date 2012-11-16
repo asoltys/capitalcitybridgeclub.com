@@ -27,29 +27,19 @@
       <hr />
         
       <div style="text-align: center">
-        <h2>CHARITY CLUB CHAMPIONSHIPS</h2>
 
-        <p>
-          OUR GAMES ON:
-          <ul>
-          <li>
-            WEDNESDAY, 25TH APRIL
-          </li>
-          <li>
-            THURSDAY, 26TH APRIL
-          </li>
-          <li>
-            FRIDAY, 27TH APRIL
-          </li>
-        </p>
+<h2>
+Oct. 24th only.  Erin Berry Canada Wide Rookie-Master Game:  68% sectionally rated black points.  Hand records and analyses.</h2>
 
-        <p>
-          WILL BE SPECIAL GAMES WITH HIGHER MASTERPOINT AWARDS.<br />
-          ENTRY FEES WILL BE $8 OF WHICH $1 WILL GO TO <strong>CANASSIST</strong>,<br /> 
-          A LOCAL CHARITY WHICH HELPS CHILDREN WITH DISABLING HANDICAPS<br />
-          BY TEACHING THEM TO COMMUNICATE AND FUNCTION THROUGH VARIOUS COMPUTER<br />
-          PROGRAMMES DEVELOPED AT UVIC.
-        </p>
+<p>
+          Pairs must consist of one player with 0 - 50 masterpoints and one with 50 - unlimited masterpoints.    
+	  Sign-up sheets will be available at all our regular games, and we will be glad to partner you up with someone.  
+	  Charge:  extra $1:50/person
+</p>
+
+<h2>December 19th, 20th & 21st we will be holding our special Christmas games with goodies, prizes and Club Championship masterpoint awards.</h2>
+
+
       </div>
     </td>
   </tr>
