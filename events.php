@@ -36,6 +36,10 @@ Thursday, 6th Dec. at 12:30PM<br />
 Friday, 7th Dec. at 9AM
 </p>
 
+<p>
+Sectionally rated silver masterpoint awards, $1 extra
+
+
 <h2>Special Christmas games with goodies, prizes and Club Championship masterpoint awards will be held:</h2>
 
 <p>
@@ -44,6 +48,14 @@ Friday, 7th Dec. at 9AM
   December 21st<br />
 </p>
 
+<hr />
+
+<p>
+The club will be closed 24th and 26th December for the Christmas holidays. 
+We wish you all a very happy Christmas!
+</p>
+
+<hr />
       </div>
     </td>
   </tr>
