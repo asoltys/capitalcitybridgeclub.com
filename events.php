@@ -36,8 +36,13 @@ Thursday, 6th Dec. at 12:30PM<br />
 Friday, 7th Dec. at 9AM
 </p>
 
-<h2>December 19th, 20th & 21st we will be holding our special Christmas games with goodies, prizes and Club Championship masterpoint awards.</h2>
+<h2>Special Christmas games with goodies, prizes and Club Championship masterpoint awards will be held:</h2>
 
+<p>
+  December 19th<br />
+  December 20th<br />
+  December 21st<br />
+</p>
 
       </div>
     </td>
