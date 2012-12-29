@@ -35,7 +35,7 @@
 			<table>
 				<tr>
 					<th colspan="3" style="text-align: center">
-					Duplicate Bridge Games - Entry fee $7 per person
+					Duplicate Bridge Games - Entry fee $8 per person
 					</th>
 				</tr>
 				<tr>
@@ -55,7 +55,7 @@
 				</tr>
 				<tr>
 					<th colspan="3" style="text-align: center">
-					Rubber Bridge Game - Entry fee $5 per person
+					Rubber Bridge Game - Entry fee $6 per person
 					</th>
 				</tr>
 				<tr>
