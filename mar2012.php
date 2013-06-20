@@ -20,7 +20,7 @@
   <tbody>
     <tr align="center" bgcolor="#33cc66" valign="top">
       <td colspan="3" height="97"><img
- src="/Images/CapitalCityBridgeClub3.jpg" height="90" width="800"></td>
+ src="/images/CapitalCityBridgeClub3.jpg" height="90" width="800"></td>
     </tr>
     <tr align="center" valign="top">
       <td rowspan="2" bordercolor="#FF0000" bgcolor="#33cc66"
@@ -151,7 +151,7 @@
         </table></td>
       <td rowspan="2" bordercolor="#FF0000" bgcolor="#33cc66"
  width="15%">
-      <p><img src="/Images/bridgehand.gif" height="100" width="125"></p>      <p>Results from this month's games. </p></td>
+      <p><img src="/images/bridgehand.gif" height="100" width="125"></p>      <p>Results from this month's games. </p></td>
     </tr>
     <tr>
       <td bordercolor="#FF0000" align="center" bgcolor="#33cc66"

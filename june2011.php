@@ -20,7 +20,7 @@
 <body bgcolor="#FFFFFF" text="#000000">
 <table width="98%" border="1" cellspacing="2" cellpadding="2" bordercolor="#999999">
   <tr align="center" valign="top" bgcolor="#33CC66"> 
-    <td colspan="3" height="97"><img src="/Images/CapitalCityBridgeClub3.jpg" width="800" height="90"></td>
+    <td colspan="3" height="97"><img src="/images/CapitalCityBridgeClub3.jpg" width="800" height="90"></td>
   </tr>
   <tr align="center" valign="top"> 
     <td rowspan="2" width="20%" bgcolor="#33CC66" bordercolor="#FF0000"> 
@@ -187,7 +187,7 @@
       </table>
       <!-- #EndEditable --></td>
     <td rowspan="2" width="15%" bgcolor="#33CC66" bordercolor="#FF0000"> 
-<p><img src="/Images/bridgehand.gif" height="100" width="125"></p>      <p><font color="#330033">Results from this month's games. </font></p>
+<p><img src="/images/bridgehand.gif" height="100" width="125"></p>      <p><font color="#330033">Results from this month's games. </font></p>
 </td>
   </tr>
   <tr>
