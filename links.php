@@ -59,17 +59,7 @@
 
         See their online <a href="http://recreation.oakbaybc.org/pop_ups_html/mc_card_games.html">schedule</a><br>
       </p>
-      <p>Other info</p>
-      <p>Bridge Glossary at <a href="http://homepage.mac.com/bridgeguys/glossbridgemain.html">The 
-
-        Bridge Guys</a><br>
-
-        Bridge Glossary at <a href="http://www.prairienet.org/bridge/glos.htm">Prarie 
-
-        Net</a><br>
-      </p>
-      <p><br>
-      </p></td>
+      </td>
     <td rowspan="2" width="15%" bgcolor="#33CC66" bordercolor="#FF0000"> 
       <p><img src="/images/bridgehand.gif" width="125" height="100"></p>      </td>
   </tr>
