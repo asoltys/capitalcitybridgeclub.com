@@ -28,29 +28,19 @@
         
       <div style="text-align: center">
 
-<h2>STAC Games will be held:</h2>
+<h2>Special Christmas games with prizes, free coffee and Club Championship masterpoint awards will be held:</h2>
 
 <p>
-Wednesday, 5th Dec. at 6:30PM<br />
-Thursday, 6th Dec. at 12:30PM<br />
-Friday, 7th Dec. at 9AM
-</p>
-
-<p>
-Sectionally rated silver masterpoint awards, $1 extra
-
-
-<h2>Special Christmas games with goodies, prizes and Club Championship masterpoint awards will be held:</h2>
-
-<p>
+  December 18th<br />
   December 19th<br />
   December 20th<br />
-  December 21st<br />
 </p>
 
 <p>
-The club will be closed 24th and 26th December for the Christmas holidays. 
-We wish you all a very happy Christmas!
+The club will be closed 25th and 26th December for the Christmas holidays and will reopen for the Friday 9AM game on Dec. 27th. There will be no other holiday closures.
+</p>
+<p>
+We thank you for your support the whole year, and wish you all a very happy Christmas!
 </p>
 
       </div>
