@@ -28,20 +28,7 @@
         
       <div style="text-align: center">
 
-<h2>Special Christmas games with prizes, free coffee and Club Championship masterpoint awards will be held:</h2>
-
-<p>
-  December 18th<br />
-  December 19th<br />
-  December 20th<br />
-</p>
-
-<p>
-The club will be closed 25th and 26th December for the Christmas holidays and will reopen for the Friday 9AM game on Dec. 27th. There will be no other holiday closures.
-</p>
-<p>
-We thank you for your support the whole year, and wish you all a very happy Christmas!
-</p>
+<h2>Check back later for details of an upcoming event this April</h2>
 
       </div>
     </td>
