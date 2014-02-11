@@ -25,161 +25,158 @@
       <table width="98%" border="1" cellspacing="0" cellpadding="0">
         <tr align="center"> 
           <td colspan="7" height="50"> 
-            <div align="center"><a href="jan2014.php">Previous</a> - February 2014 - <a href="mar2014.php">Next </a></div>
+            <div align="center"><a href="jan2014.php">Previous</a> - February 2014
+              - <a href="mar2014.php">Next </a></div>
           </td>
         </tr>
         <tr align="center" valign="top"> 
-          <td width="90" height="30"><b>Sun</b></td>
-          <td width="84" height="30"><b>Mon</b></td>
-          <td width="80" height="30"><b>Tues</b></td>
-          <td width="70" height="30"><b>Wed</b></td>
-          <td width="78" height="30"><b>Thur</b></td>
-          <td width="70" height="30"><b>Fri</b></td>
+          <td width="95" height="30"><b>Sun</b></td>
+          <td width="87" height="30"><b>Mon</b></td>
+          <td width="82" height="30"><b>Tues</b></td>
+          <td width="74" height="30"><b>Wed</b></td>
+          <td width="79" height="30"><b>Thur</b></td>
+          <td width="74" height="30"><b>Fri</b></td>
           <td width="76" height="30"><b>Sat</b></td>
         </tr>
         <tr align="right" valign="top"> 
-          <td width="90" height="70"></td>
-          <td width="84" height="70">&nbsp;</td>
-          <td width="80" height="70">&nbsp;</td>
-          <td width="84" height="70"> 
-            <p>1</p>
-            <p><a href="Results/2008/140201.txt">Results</a></p>
-          </td>
-          <td width="80" height="70"> 
-            <p>2</p>
-            <p><a href="Results/2008/140202.txt">Results</a></p>
-          </td>
-          <td width="70" height="70"> 
-            <p>3</p>
-            <p><a href="Results/2008/140203.txt">Results</a></p>
-          </td>
-          <td width="78" height="70">4 
+          <td width="95" height="70"></td>
+          <td width="87" height="70"></td>
+          <td width="82" height="70">&nbsp;</td>
+          <td width="74" height="70">&nbsp;</td>
+          <td width="79" height="70">
+            <p>&nbsp;</p>
             <p></p>
           </td>
+          <td width="74" height="70">&nbsp;</td>
+          <td width="76" height="70">1</td>
         </tr>
         <tr align="right" valign="top"> 
-          <td width="70" height="70">5 
-            <p></p>
+          <td width="95" height="69"> 
+            <div align="right">2</div>
           </td>
-          <td width="76" height="70">6 
+          <td width="87" height="69"> 
+            <p align="right">3</p>
           </td>
-          <td width="90" height="69"> 
-            <div align="right">7 
+          <td width="82" height="69"> 
+              <p>4</p>
               <p></p>
-            </div>
           </td>
-          <td width="84" height="69"> 
-            <p align="right">8 
-            <p><a href="Results/2008/140208.txt">Results</a></p>
+          <td width="74" height="69"> 
+            <div align="right">5</div>
+            <p><a href="/Results/2008/140205.txt">Results</a></p>
           </td>
-          <td width="80" height="69"> 
-              <p>9 </p>
-              <p><a href="Results/2008/140209.txt">Results</a></p>
+          <td width="79" height="69"> 
+            <p align="right">6</p>
+            <p align="right"><a href="/Results/2008/140206.txt">Results</a></p>
           </td>
-          <td width="70" height="69"> 
-            <div align="right">10 
-            <p><a href="Results/2008/140210.txt">Results</a></p>
-              <p></p>
-            </div>
-          </td>
-          <td width="78" height="69"> 
-            <p align="right">11 
-            </p>
-            <p></p>
-          </td>
-        </tr>
-        <tr align="right" valign="top"> 
-          <td width="70" height="69"> 
-            <div align="right">12 
-              <p></p>
-            </div>
+          <td width="74" height="69"> 
+            <div align="right">7</div>
+            <p><a href="/Results/2008/140207.txt">Results</a></p>
           </td>
           <td width="76" height="69"> 
-            <div align="right">13 
-            </div>
-          </td>
-          <td width="90" height="70"> 
-            <div align="right">14 
-              <p></p>
-            </div>
-          </td>
-          <td width="84" height="70"> 
-            <div align="right">15 
-              <p><a href="Results/2008/140215.txt">Results</a></p>
-            </div>
-          </td>
-          <td width="80" height="70"> 
-            <p align="right">16</p>
-              <p><a href="Results/2008/140216.txt">Results</a></p>
-          </td>
-          <td width="70" height="70"> 
-            17 
-              <p><a href="Results/2008/140217.txt">Results</a></p>
-          </td>
-          <td width="78" height="70"> 
-            <p align="right">18 
-            </p>
-            <p></p>
+            <div align="right">8</div>
           </td>
         </tr>
         <tr align="right" valign="top"> 
-          <td width="70" height="70"> 
-            <div align="right">19 
-            </div>
+          <td width="95" height="70"> 
+            <div align="right">9</div>
+          </td>
+          <td width="87" height="70"> 
+              <p>10</p>
+          </td>
+          <td width="82" height="70"> 
+            <p align="right">11</p>
+            <p align="right"></p>
+          </td>
+          <td width="74" height="70"> 
+            <div align="right">12</div>
+            <p><a href="/Results/2008/140212.txt">Results</a></p>
+          </td>
+          <td width="79" height="70"> 
+            <p align="right">13</p>
+            <p align="right"><a href="/Results/2008/140213.txt">Results</a></p>
+            </p>
+          </td>
+          <td width="74" height="70"> 
+            <div align="right">14</div>
+            <p><a href="/Results/2008/140214.txt">Results</a></p>
           </td>
           <td width="76" height="70"> 
-            <div align="right">20 
-            </div>
-          </td>
-          <td width="90" height="73"> 
-              <p>21 </p>
-              <p></p>
-          </td>
-          <td width="84" height="73"> 
-              <p>22 </p>
-              <p><a href="Results/2008/140222.txt">Results</a></p>
-          </td>
-          <td width="80" height="73"> 
-            <div align="right">23 
-              <p><a href="Results/2008/140223.txt">Results</a></p>
-            </div>
-          </td>
-          <td width="70" height="73"> 
-            <div align="right">24 
-              <p><a href="Results/2008/140224.txt">Results</a></p>
-            </div>
-          </td>
-          <td width="78" height="73"> 
-            <div align="right">25 
-            </div>
+            <div align="right">15</div>
           </td>
         </tr>
         <tr align="right" valign="top"> 
-          <td width="70" height="73"> 
-            <div align="right">26</div>
+          <td width="95" height="73"> 
+              <p>16</p>
+              <p></p>
+          </td>
+          <td width="87" height="73"> 
+            <div align="right"> 
+              <p>17</p>
+            </div>
+          </td>
+          <td width="82" height="73"> 
+            <div align="right">18</div>
+          </td>
+          <td width="74" height="73"> 
+            <div align="right">19</div>
+            <p><a href="/Results/2008/140219.txt">Results</a></p>
+          </td>
+          <td width="79" height="73"> 
+              <p>20</p>
+              <p><a href="/Results/2008/140220.txt">Results</a></p>
+          </td>
+          <td width="74" height="73"> 
+            <div align="right">21</div>
+            <p><a href="/Results/2008/140221.txt">Results</a></p>
           </td>
           <td width="76" height="73"> 
-            <div align="right">27</div>
+            <div align="right">22</div>
           </td>
-          <td width="90" height="70">28 
-            <p></p>
+        </tr>
+        <tr align="right" valign="top"> 
+          <td width="95" height="70">
+            <p>23</p>
+            <p>&nbsp;</p>
           </td>
-          <td width="84" height="70">29 
-              <p><a href="Results/2008/140229.txt">Results</a></p>
+          <td width="87" height="70">
+            <p>24</p>
           </td>
-          <td width="80" height="70"></td>
-          <td width="80" height="70"></td>
+          <td width="82" height="70">25</td>
+          <td width="74" height="70">
+          26
+          <p><a href="/Results/2008/140226.txt">Results</a></p>
+          </td>
+          <td width="79" height="70">
+            <p>27</p>
+            <p><a href="/Results/2008/140227.txt">Results</a></p>
+          </td>
+          <td width="74" height="70">
+          28
+          <p><a href="/Results/2008/140228.txt">Results</a></p>
+          </td>
+          <td width="76" height="70"></td>
+        </tr>
+        <tr align="right" valign="top"> 
+          <td width="95" height="70">
+          </td>
+          <td width="87" height="70"></td>
+          <td width="82" height="70"></td>
+          <td width="74" height="70"></td>
+          <td width="79" height="70"></td>
+          <td width="74" height="70"></td>
           <td width="76" height="70"></td>
         </tr>
       </table>
-      </td>
+    </td>
     <td rowspan="2" width="15%" bgcolor="#33CC66" bordercolor="#FF0000"> 
-<p><img src="/images/bridgehand.gif" height="100" width="125"></p>      <p>Results from this month's games. </p>
-</td>
+      <p><img src="/images/bridgehand.gif" width="125" height="100"></p>
+      <p>This months games results.</p>
+    </td>
   </tr>
   <tr>
     <td align="center" valign="bottom" height="50" bgcolor="#33CC66" bordercolor="#FF0000" width="67%"> 
-      <?php include('footer.php') ?>
+      <?php require('footer.php') ?>
     </td>
   </tr>
 </table>
