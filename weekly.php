@@ -45,12 +45,12 @@
 				</tr>
 				<tr>
 					<td>Thursday</td>
-					<td>12:45 PM</td>
+					<td>12:30 PM</td>
 					<td>Open Stratified Game</td>
 				</tr>
 				<tr>
 					<td>Friday</td>
-					<td>9:15 AM</td>
+					<td>9:00 AM</td>
 					<td>Open Stratified Game</td>
 				</tr>
 				<tr>
@@ -60,7 +60,7 @@
 				</tr>
 				<tr>
 					<td>Monday</td>
-					<td colspan="2">9:30 AM</td>
+					<td colspan="2">9:00 AM</td>
 				</tr>
 			</table>
   </tr>

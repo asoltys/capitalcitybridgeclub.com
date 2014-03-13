@@ -28,7 +28,25 @@
         
       <div style="text-align: center">
 
-<h2>Check back later for details of an upcoming event this April</h2>
+<h2>CHARITY BRIDGE GAME</h2>
+                  <p>Monday, April 7th, 2014 at 12:45PM</p>
+                   	
+<p>In support of  CanAssist - visit www.canassist.ca</p>
+
+<ul>
+<li>Free refreshments from Bon Macaron, Ooh La La Cupcakes, Patisserie Daniel
+and many surprises</li>
+<li>40 door prizes ranging from $25 to $400+</li>
+<li>Lots of masterpoints</li>
+<li>Prizes for winners</li>
+</ul>
+
+<p>
+Limited seating
+</p>
+<p>
+Tickets at $25 per person sold in advance
+</p>
 
       </div>
     </td>
