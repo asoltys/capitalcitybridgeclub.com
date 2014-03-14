@@ -45,22 +45,22 @@
 				</tr>
 				<tr>
 					<td>Thursday</td>
-					<td>12:30 PM</td>
+					<td>12:45 PM (Lesson at 12:30 pm)</td>
 					<td>Open Stratified Game</td>
 				</tr>
 				<tr>
 					<td>Friday</td>
-					<td>9:00 AM</td>
+					<td>9:15 AM (Lesson at 9:00 am)</td>
 					<td>Open Stratified Game</td>
 				</tr>
 				<tr>
 					<th colspan="3" style="text-align: center">
-					Rubber Bridge Game - Entry fee $6 per person
+          Rubber Bridge Game - Entry fee $6 per person
 					</th>
 				</tr>
 				<tr>
 					<td>Monday</td>
-					<td colspan="2">9:00 AM</td>
+					<td colspan="2">9:30 AM (Lesson at 9:00 am)</td>
 				</tr>
 			</table>
   </tr>
