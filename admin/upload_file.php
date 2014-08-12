@@ -1,5 +1,5 @@
 <?php
-$allowedExts = array("txt");
+$allowedExts = array("txt", "htm");
 $extension = end(explode(".", $_FILES["file"]["name"]));
 if ((($_FILES["file"]["type"] == "text/plain"))
 && ($_FILES["file"]["size"] < 800000)

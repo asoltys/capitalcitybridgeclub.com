@@ -67,7 +67,7 @@
               <p>6</p>            </td>
             <td width="74" height="69"> 
               <div align="right">7</div>
-							<p align="right"><a href="Results/2008/140507.txt">Results</a></p>             </td>
+							<p align="right"><a href="Results/2008/140507.htm">Results</a></p>             </td>
             <td width="79" height="69"> 
               <p align="right">8</p>
               <p align="right"><a href="Results/2008/140508.txt">Results</a></p>            </td>
