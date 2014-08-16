@@ -39,7 +39,7 @@
             <td colspan="7" height="50">
 
             <div align="center">
-              <a href="july2014.php">Previous</a> - August 2014 - <a href="sept2014.php">Next</a></div>
+              <a href="july2014.php">Previous</a> - August 2014 - <a href="sep2014.php">Next</a></div>
 
             </td>
 
