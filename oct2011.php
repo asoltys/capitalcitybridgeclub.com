@@ -63,15 +63,15 @@
           </td>
           <td width="74" height="69" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">5</font></div>
-            <p><a href="/Results/2008/111005.txt">Results</a></p>
+            <p><a href="/results/111005.txt">Results</a></p>
           </td>
           <td width="79" height="69" nowrap> 
             <p align="right"><font face="Arial, Helvetica, sans-serif" size="2">6</font></p>
-            <p align="right"><a href="/Results/2008/111006.txt">Results</a></p>
+            <p align="right"><a href="/results/111006.txt">Results</a></p>
           </td>
           <td width="74" height="69" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">7</font></div>
-            <p><a href="/Results/2008/111007.txt">Results</a></p>
+            <p><a href="/results/111007.txt">Results</a></p>
           </td>
           <td width="76" height="69" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">8</font></div>
@@ -90,16 +90,16 @@
           </td>
           <td width="74" height="70" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">12</font></div>
-            <p><a href="/Results/2008/111012.txt">Results</a></p>
+            <p><a href="/results/111012.txt">Results</a></p>
           </td>
           <td width="79" height="70" nowrap> 
             <p align="right"><font face="Arial, Helvetica, sans-serif" size="2">13</font></p>
-            <p align="right"><a href="/Results/2008/111013.txt">Results</a></p>
+            <p align="right"><a href="/results/111013.txt">Results</a></p>
             </p>
           </td>
           <td width="74" height="70" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">14</font></div>
-            <p><a href="/Results/2008/111014.txt">Results</a></p>
+            <p><a href="/results/111014.txt">Results</a></p>
           </td>
           <td width="76" height="70" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">15</font></div>
@@ -120,15 +120,15 @@
           </td>
           <td width="74" height="73" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">19</font></div>
-            <p><a href="/Results/2008/111019.txt">Results</a></p>
+            <p><a href="/results/111019.txt">Results</a></p>
           </td>
           <td width="79" height="73" nowrap> 
               <p><font face="Arial, Helvetica, sans-serif" size="2">20</font></p>
-              <p><a href="/Results/2008/111020.txt">Results</a></p>
+              <p><a href="/results/111020.txt">Results</a></p>
           </td>
           <td width="74" height="73" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">21</font></div>
-            <p><a href="/Results/2008/111021.txt">Results</a></p>
+            <p><a href="/results/111021.txt">Results</a></p>
           </td>
           <td width="76" height="73" nowrap> 
             <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">22</font></div>
@@ -145,15 +145,15 @@
           <td width="82" height="70" nowrap><font face="Arial, Helvetica, sans-serif" size="2">25</font></td>
           <td width="74" height="70" nowrap>
           <font face="Arial, Helvetica, sans-serif" size="2">26</font>
-          <p><a href="/Results/2008/111026.txt">Results</a></p>
+          <p><a href="/results/111026.txt">Results</a></p>
           </td>
           <td width="79" height="70" nowrap>
             <p><font face="Arial, Helvetica, sans-serif" size="2">27</font></p>
-            <p><a href="/Results/2008/111027.txt">Results</a></p>
+            <p><a href="/results/111027.txt">Results</a></p>
           </td>
           <td width="74" height="70" nowrap>
           <font face="Arial, Helvetica, sans-serif" size="2">28</font>
-          <p><a href="/Results/2008/111028.txt">Results</a></p>
+          <p><a href="/results/111028.txt">Results</a></p>
           </td>
           <td width="76" height="70" nowrap><font face="Arial, Helvetica, sans-serif" size="2">29</font></td>
         </tr>

@@ -100,7 +100,7 @@
 
             <td height="70" nowrap="nowrap" width="14%"><font face="Arial, Helvetica, sans-serif" size="2">1</font>
             
-              <p><a href="/Results/2008/110701.txt">Results</a></p>
+              <p><a href="/results/110701.txt">Results</a></p>
             </td>
 
             <td height="70" nowrap="nowrap"><font face="Arial, Helvetica, sans-serif" size="2">2</font></td>
@@ -138,14 +138,14 @@
 
             <div align="right">
 													<font face="Arial, Helvetica, sans-serif" size="2">6</font></div>
-              <p><a href="/Results/2008/110706.txt">Results</a></p>
+              <p><a href="/results/110706.txt">Results</a></p>
 
             </td>
 
             <td height="69" nowrap="nowrap" width="14%">
 
             <p align="right"><font face="Arial, Helvetica, sans-serif" size="2">7</font></p>
-              <p><a href="/Results/2008/110707.txt">Results</a></p>
+              <p><a href="/results/110707.txt">Results</a></p>
 
             </td>
 
@@ -153,7 +153,7 @@
 
             <div align="right">
 													<font face="Arial, Helvetica, sans-serif" size="2">8</font></div>
-              <p><a href="/Results/2008/110708.txt">Results</a></p>
+              <p><a href="/results/110708.txt">Results</a></p>
 
             </td>
 
@@ -201,7 +201,7 @@
             <td height="70" nowrap="nowrap" width="14%">
 
             <p align="right"><font face="Arial, Helvetica, sans-serif" size="2">14</font></p>
-              <p><a href="/Results/2008/110714.txt">Results</a></p>
+              <p><a href="/results/110714.txt">Results</a></p>
 
             </td>
 
@@ -209,7 +209,7 @@
 
             <div align="right">
 													<font face="Arial, Helvetica, sans-serif" size="2">15</font></div>
-              <p><a href="/Results/2008/110715.txt">Results</a></p>
+              <p><a href="/results/110715.txt">Results</a></p>
 
             </td>
 
@@ -258,7 +258,7 @@
 													<font face="Arial, Helvetica, sans-serif"
 
  size="2">20</font></div>
-              <p><a href="/Results/2008/110720.txt">Results</a></p>
+              <p><a href="/results/110720.txt">Results</a></p>
 
             </td>
 
@@ -268,7 +268,7 @@
 													<font face="Arial, Helvetica, sans-serif"
 
  size="2">21</font>
-              <p><a href="/Results/2008/110721.txt">Results</a></p>
+              <p><a href="/results/110721.txt">Results</a></p>
 
 												</div>
 
@@ -280,7 +280,7 @@
 													<font face="Arial, Helvetica, sans-serif"
 
  size="2">22</font></div>
-              <p><a href="/Results/2008/110722.txt">Results</a></p>
+              <p><a href="/results/110722.txt">Results</a></p>
 
             </td>
 
@@ -308,16 +308,16 @@
 
             <td height="70" nowrap="nowrap" width="14%">27<br>
 
-              <p><a href="/Results/2008/110727.txt">Results</a></p>
+              <p><a href="/results/110727.txt">Results</a></p>
 											</td>
 
             <td height="70" nowrap="nowrap" width="14%">28<br>
 
-              <p><a href="/Results/2008/110728.txt">Results</a></p>
+              <p><a href="/results/110728.txt">Results</a></p>
 											</td>
 
             <td height="70" nowrap="nowrap" width="14%">29<br>
-              <p><a href="/Results/2008/110729.txt">Results</a></p>
+              <p><a href="/results/110729.txt">Results</a></p>
 
 											</td>
 

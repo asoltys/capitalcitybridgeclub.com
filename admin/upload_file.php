@@ -9,7 +9,7 @@ if (($_FILES["file"]["size"] < 800000) && in_array($extension, $allowedExts))
     }
   else
     {
-    move_uploaded_file($_FILES["file"]["tmp_name"], "../Results/2008/" . $_FILES["file"]["name"]);
+    move_uploaded_file($_FILES["file"]["tmp_name"], "../results/" . $_FILES["file"]["name"]);
     header("Location: upload.php?success=true");
     }
   }

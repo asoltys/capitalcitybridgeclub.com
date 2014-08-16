@@ -59,13 +59,13 @@
             </td>
             <td height="70"="nowrap" width="70">
             <p>3</p>
-            <p><a href="/Results/2008/130403.txt">Results</a></p>
+            <p><a href="/results/130403.txt">Results</a></p>
             </td>
             <td height="70"="nowrap" width="78">4
-            <p><a href="/Results/2008/130404.txt">Results</a></p>
+            <p><a href="/results/130404.txt">Results</a></p>
             </td>
             <td height="70"="nowrap" width="70">5
-            <p><a href="/Results/2008/130405.txt">Results</a></p>
+            <p><a href="/results/130405.txt">Results</a></p>
   </td>
             <td height="70"="nowrap" width="76">6 </td>
           </tr>
@@ -85,16 +85,16 @@
             </td>
             <td height="69"="nowrap" width="70">
             <div align="right">10 </div>
-            <p><a href="/Results/2008/130410.txt">Results</a></p>
+            <p><a href="/results/130410.txt">Results</a></p>
             </td>
             <td height="69"="nowrap" width="78">
             <p align="right">11 </p>
             <p><a
- href="/Results/2008/130411.txt">Results</a></p>
+ href="/results/130411.txt">Results</a></p>
             </td>
             <td height="69"="nowrap" width="70">
             <div align="right">12 </div>
-            <p><a href="/Results/2008/130412.txt">Results</a></p>
+            <p><a href="/results/130412.txt">Results</a></p>
             </td>
             <td height="69"="nowrap" width="76">
             <div align="right">13 </div>
@@ -113,16 +113,16 @@
             </td>
             <td height="70"="nowrap" width="70">
             <div align="right">17 </div>
-            <p><a href="/Results/2008/130417.txt">Results</a></p>
+            <p><a href="/results/130417.txt">Results</a></p>
             </td>
             <td height="70"="nowrap" width="78">
             <p align="right">18 </p>
             <p><a
- href="/Results/2008/130418.txt">Results</a></p>
+ href="/results/130418.txt">Results</a></p>
             </td>
             <td height="70"="nowrap" width="70">
             <div align="right">19 </div>
-            <p><a href="/Results/2008/130419.txt">Results</a></p>
+            <p><a href="/results/130419.txt">Results</a></p>
             </td>
             <td height="70"="nowrap" width="76">
             <div align="right">20 </div>
@@ -146,17 +146,17 @@
             </td>
             <td height="73"="nowrap" width="70">
             <div align="right">24 </div>
-            <p><a href="/Results/2008/130424.txt">Results</a></p>
+            <p><a href="/results/130424.txt">Results</a></p>
             </td>
             <td height="73"="nowrap" width="78">
             <div align="right">25
             <p><a
- href="/Results/2008/130425.txt">Results</a></p>
+ href="/results/130425.txt">Results</a></p>
             </div>
             </td>
             <td height="73"="nowrap" width="70">
             <div align="right">26 </div>
-            <p><a href="/Results/2008/130426.txt">Results</a></p>
+            <p><a href="/results/130426.txt">Results</a></p>
             </td>
             <td height="73"="nowrap" width="76">
             <div align="right">27 </div>

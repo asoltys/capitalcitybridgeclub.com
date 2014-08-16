@@ -50,13 +50,13 @@
             <td width="82" height="70" nowrap><font face="Arial, Helvetica, sans-serif" size="2">1</font></td>
             <td width="74" height="70" nowrap>
               <p><font face="Arial, Helvetica, sans-serif" size="2">2</font></p>
-              <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111102.txt">Results</a></font></p>						  </td>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111102.txt">Results</a></font></p>						  </td>
             <td width="79" height="70" nowrap>
               <p><font face="Arial, Helvetica, sans-serif" size="2">3</font></p>
-	             <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111103.txt">Results</a></font></p>            </td>
+	             <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111103.txt">Results</a></font></p>            </td>
             <td width="79" height="70" nowrap>
               <p><font face="Arial, Helvetica, sans-serif" size="2">4</font></p>
-	             <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111104.txt">Results</a></font></p>            </td>
+	             <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111104.txt">Results</a></font></p>            </td>
             <td width="76" height="70" nowrap><font face="Arial, Helvetica, sans-serif" size="2">5</font></td>
           </tr>
             <tr align="right" valign="top"> 
@@ -69,13 +69,13 @@
               <p><font face="Arial, Helvetica, sans-serif" size="2">8</font></p>            </td>
             <td width="74" height="69" nowrap> 
               <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">9</font></div>
-							<p align="right"><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111109.txt">Results</a></font></p>             </td>
+							<p align="right"><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111109.txt">Results</a></font></p>             </td>
             <td width="79" height="69" nowrap> 
               <p align="right"><font face="Arial, Helvetica, sans-serif" size="2">10</font></p>
-              <p align="right"><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111110.txt">Results</a></font></p>            </td>
+              <p align="right"><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111110.txt">Results</a></font></p>            </td>
             <td width="74" height="69" nowrap> 
               <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">11</font></div>            
-							<p align="right"><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111111.txt">Results</a></font></p> 
+							<p align="right"><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111111.txt">Results</a></font></p> 
 							</td>
             <td width="76" height="69" nowrap> 
               <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">12</font></div>            </td>
@@ -91,14 +91,14 @@
            </td>
             <td width="74" height="70" nowrap> 
               <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">16</font></div>
-							<p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111116.txt">Results</a></font></p>     
+							<p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111116.txt">Results</a></font></p>     
 							            </td>
             <td width="79" height="70" nowrap> 
               <p align="right"><font face="Arial, Helvetica, sans-serif" size="2">17</font></p>
-              <p align="right"><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111117.txt">Results</a></font></p>            </td>
+              <p align="right"><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111117.txt">Results</a></font></p>            </td>
             <td width="74" height="70" nowrap> 
               <font face="Arial, Helvetica, sans-serif" size="2">18</font>     
-						<p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111118.txt">Results</a></font></p>  	
+						<p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111118.txt">Results</a></font></p>  	
 							         </td>
             <td width="76" height="70" nowrap> 
               <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">19</font></div>            </td>
@@ -116,14 +116,14 @@
               <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">22</font></div>            </td>
             <td width="74" height="73" nowrap> 
               <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">23</font></div>
-							                <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111123.txt">Results</a></font></p>
+							                <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111123.txt">Results</a></font></p>
 							            </td>
             <td width="79" height="73" nowrap> 
               <p><font face="Arial, Helvetica, sans-serif" size="2">24</font></p>
-                <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111124.txt">Results</a></font></p>            </td>
+                <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111124.txt">Results</a></font></p>            </td>
             <td width="74" height="73" nowrap> 
               <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">25</font></div>    
-							                <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111125.txt">Results</a></font></p>
+							                <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111125.txt">Results</a></font></p>
 							        </td>
             <td width="76" height="73" nowrap> 
               <div align="right"><font face="Arial, Helvetica, sans-serif" size="2">26</font></div>            </td>
@@ -137,11 +137,11 @@
                         </td>
             <td width="82" height="70" nowrap><font face="Arial, Helvetica, sans-serif" size="2">29</font></td>
             <td width="74" height="70" nowrap><font face="Arial, Helvetica, sans-serif" size="2">30</font>
-              <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111130.txt">Results</a></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111130.txt">Results</a></font></p>
             </td>
             <td width="79" height="70" nowrap>
               <p><font face="Arial, Helvetica, sans-serif" size="2">31</font></p> 
-              <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="Results/2008/111131.txt">Results</a></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><a href="results/111131.txt">Results</a></font></p>
             </td>
             <td width="74" height="70" nowrap><font face="Arial, Helvetica, sans-serif" size="2"></font></td>
             <td width="76" height="70" nowrap><font face="Arial, Helvetica, sans-serif" size="2"></font>
