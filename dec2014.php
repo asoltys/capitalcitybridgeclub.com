@@ -34,7 +34,7 @@
           <tr align="center">
             <td colspan="7" height="50">
               <div align="center"><a href="nov2014.php">Previous</a> - December 2014 - <a
- href="jan2015.php">Next </a></div>
+ href="calendar.php?year=2015&month=1">Next </a></div>
             </td>
           </tr>
           <tr align="center" valign="top">
