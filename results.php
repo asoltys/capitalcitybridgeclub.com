@@ -26,18 +26,18 @@
       <h1>2014 Results</h1>
 
 <ul style="list-style: none">
-  <li><a href="jan2014.php">January</a></li>
-  <li><a href="feb2014.php">February</a></li>
-  <li><a href="mar2014.php">March</a></li>
-  <li><a href="apr2014.php">April</a></li>
-  <li><a href="may2014.php">May</a></li>
-  <li><a href="june2014.php">June</a></li>
-  <li><a href="july2014.php">July</a></li>
-  <li><a href="aug2014.php">August</a></li>
-  <li><a href="sep2014.php">September</a></li>
-  <li><a href="oct2014.php">October</a></li>
-  <li><a href="nov2014.php">November</a></li>
-  <li><a href="dec2014.php">December</a></li>
+  <li><a href="calendar.php?year=2015&month=1">January</a></li>
+  <li><a href="calendar.php?year=2015&month=2">February</a></li>
+  <li><a href="calendar.php?year=2015&month=3">March</a></li>
+  <li><a href="calendar.php?year=2015&month=4">April</a></li>
+  <li><a href="calendar.php?year=2015&month=5">May</a></li>
+  <li><a href="calendar.php?year=2015&month=6">June</a></li>
+  <li><a href="calendar.php?year=2015&month=7">July</a></li>
+  <li><a href="calendar.php?year=2015&month=8">August</a></li>
+  <li><a href="calendar.php?year=2015&month=9">September</a></li>
+  <li><a href="calendar.php?year=2015&month=10">October</a></li>
+  <li><a href="calendar.php?year=2015&month=11">November</a></li>
+  <li><a href="calendar.php?year=2015&month=12">December</a></li>
 </ul>
 </td>
     <td rowspan="2" width="15%" bgcolor="#33CC66" bordercolor="#FF0000"> 
