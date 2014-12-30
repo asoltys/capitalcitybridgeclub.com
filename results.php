@@ -23,7 +23,7 @@
       <?php require('navigation.php') ?>     </td>
     <td height="500" bgcolor="#33CC66" width="67%" bordercolor="#333333"> 
 
-      <h1>2014 Results</h1>
+      <h1>2015 Results</h1>
 
 <ul style="list-style: none">
   <li><a href="calendar.php?year=2015&month=1">January</a></li>
