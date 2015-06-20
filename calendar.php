@@ -68,6 +68,8 @@
       <p><img src="/images/bridgehand.gif" height="100" width="125"></p>
 <!-- #BeginEditable "RightText" -->
       <p>Results from this month's games. </p>
+	  <p>For bridge geeks only: <a href="/results/HandRecords.htm">Download hand records in .pbn format</a></p>
+	  
 <!-- #EndEditable --></td>
     </tr>
     <tr>
